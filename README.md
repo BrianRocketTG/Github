@@ -1,5 +1,5 @@
 git init
-git add .
+git add . // add all file
 git commit -m"first commit"
 
 git branch -M main
